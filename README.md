@@ -22,8 +22,7 @@ Navigate to the project directory:
 
 cd real-time-chat-app
 Install the required dependencies:
-npm install express then
-npm install SocketIO
+npm install express socket
 
 After installation of these dependencies run the following command-node .\server.js
 Open your web browser and navigate to http://localhost:3000 (or the port specified in the console).
