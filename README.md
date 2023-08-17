@@ -17,7 +17,7 @@ Git
 Installation
 Clone this repository to your local machine using Git:
 
-git clone https://github.com/your-username/real-time-chat-app.git
+git clone https://github.com/YashhSharma/Real-time-chat-application.git
 Navigate to the project directory:
 
 cd real-time-chat-app
