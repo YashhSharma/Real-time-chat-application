@@ -22,7 +22,7 @@ Navigate to the project directory:
 
 cd real-time-chat-app
 Install the required dependencies:
-npm install express
+npm install express then
 npm install SocketIO
 
 After installation of these dependencies run the following command-node .\server.js
